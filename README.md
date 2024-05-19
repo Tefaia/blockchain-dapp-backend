@@ -1,5 +1,6 @@
 Blockchain Network Marketplace, here's the functionality:
 
+
 Faucet
 
 • Purpose: Peer fund connection via MetaMask or other wallets.
@@ -43,6 +44,11 @@ Block Explorer
 • Features: Provides information such as transaction histories, block confirmations, and network status.
 
 These components collectively enable a functioning blockchain-based marketplace by facilitating secure transactions, providing transparency, and ensuring the network's integrity and accessibility.
+
+
+
+
+
 
 Getting Started
 To get started with the Blockchain Network Marketplace, follow these steps:
