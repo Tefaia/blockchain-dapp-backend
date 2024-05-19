@@ -94,54 +94,71 @@ Exploring the Blockchain
 
 Use the Block Explorer to search for and view details of transactions, blocks, and addresses.
 
+
 Log In 
 <img width="960" alt="Dapp 1" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/d79d7d78-6937-41ee-83ff-2b5bedb1e7fd">
+
 
 Wallet
 <img width="960" alt="Dapp 2" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/b4e80f0f-735e-4220-b72a-b0eaf0826074">
 
+
 Request Token
 <img width="960" alt="Dapp 3" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/df1aa129-c934-4749-a535-3664699b108f">
+
 
 Wallet Address
 <img width="960" alt="Dapp 4" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/90257f3b-b7f2-4d13-be76-4211b5350bd1">
 
+
 Peers
 <img width="960" alt="Dapp 5" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/86dce336-be35-404e-8cbe-d31153ec33b9">
+
 
 Miner Component
 <img width="960" alt="Dapp 6" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/a1a7b093-4f0a-46e3-8019-ecb65d2d1654">
 
+
 Blocks
 <img width="960" alt="Dapp 7" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/3e6fc08a-ef87-4b6b-8a54-4ec882a93073">
+
 
 Blockchain
 <img width="960" alt="Dapp 8" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/70ac2ba4-4821-4695-a2b8-9d1dfcb712dd">
 
 
+
 Marketplace with added items on Admin Account
 <img width="960" alt="Dapp 9 added products" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/f07ab4ca-be3e-4960-88e8-7f370bd9b540">
+
 
 Marketplace User Account purchased three items
 <img width="960" alt="Dapp 10 User acct they purchased 3 items" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/1cbeecf6-bc2e-4154-b7b5-171232f54e83">
 
+
 Marketplace User Account pending transactions
 <img width="960" alt="Dapp 11 Users Pending Transcations" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/8025cf10-a818-4bed-835e-9570fe2aea67">
+
 
 Blocks - Get Block Results 
 <img width="960" alt="Dapp 12 Get Block" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/ed4a05be-684c-4ada-9cee-eef22b27b7cc">
 
+
 Admin Account - Mine Tokens after User purchased items
 <img width="960" alt="Dapp 13 Admin mined after User purchased items" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/d7d42595-8006-4c5e-904b-cb4458272f99">
+
 
 Admin Account shows mined blocks and details also now the Users transaction are confirmed and complete at this point.
 <img width="960" alt="Dapp 14 BlockExplorer Block Proof 1" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/b917ccf7-6213-4d58-bc6e-d23bbee59b28">
 
+
 Confirmed transations 
 <img width="960" alt="Dapp 15 BlockExplorer Proof 2 " src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/bc2eb680-ea53-4ccb-adc8-6d8b34242bc8">
 
+
 Confirmed transactions
 <img width="960" alt="Dapp 16 confirmed Transactions" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/d708fe25-5981-48ad-a478-3df2c41a0b94">
+
 
 Admin Wallet - Note since the User made two separate transcations the balance went up from 200 which was the inital balance to 220.
 <img width="960" alt="Dapp 17 Admin wallet it has gain 20 since the last two separate transactions " src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/585ed795-90c1-4fb3-a7e8-7ead42b10355">
