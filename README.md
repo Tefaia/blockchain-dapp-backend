@@ -97,6 +97,8 @@ Use the Block Explorer to search for and view details of transactions, blocks, a
 
 
 
+
+
 Log In 
 
 <img width="960" alt="Dapp 1" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/d79d7d78-6937-41ee-83ff-2b5bedb1e7fd">
@@ -105,36 +107,29 @@ Wallet
 
 <img width="960" alt="Dapp 2" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/b4e80f0f-735e-4220-b72a-b0eaf0826074">
 
-
 Request Token
 
 <img width="960" alt="Dapp 3" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/df1aa129-c934-4749-a535-3664699b108f">
-
 
 Wallet Address
 
 <img width="960" alt="Dapp 4" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/90257f3b-b7f2-4d13-be76-4211b5350bd1">
 
-
 Peers
 
 <img width="960" alt="Dapp 5" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/86dce336-be35-404e-8cbe-d31153ec33b9">
-
 
 Miner Component
 
 <img width="960" alt="Dapp 6" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/a1a7b093-4f0a-46e3-8019-ecb65d2d1654">
 
-
 Blocks
 
 <img width="960" alt="Dapp 7" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/3e6fc08a-ef87-4b6b-8a54-4ec882a93073">
 
-
 Blockchain
 
 <img width="960" alt="Dapp 8" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/70ac2ba4-4821-4695-a2b8-9d1dfcb712dd">
-
 
 
 Marketplace with added items on Admin Account
