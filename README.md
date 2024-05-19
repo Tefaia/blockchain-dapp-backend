@@ -96,10 +96,12 @@ Use the Block Explorer to search for and view details of transactions, blocks, a
 
 
 Log In 
+
 <img width="960" alt="Dapp 1" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/d79d7d78-6937-41ee-83ff-2b5bedb1e7fd">
 
 
 Wallet
+
 <img width="960" alt="Dapp 2" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/b4e80f0f-735e-4220-b72a-b0eaf0826074">
 
 
