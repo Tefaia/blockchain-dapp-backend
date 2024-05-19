@@ -96,3 +96,40 @@ Use the Block Explorer to search for and view details of transactions, blocks, a
 
 <img width="960" alt="Dapp 1" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/d79d7d78-6937-41ee-83ff-2b5bedb1e7fd">
 
+<img width="960" alt="Dapp 2" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/b4e80f0f-735e-4220-b72a-b0eaf0826074">
+
+<img width="960" alt="Dapp 3" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/a6eda9aa-db8a-4400-bd07-a34e943cf851">
+
+<img width="960" alt="Dapp 4" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/90257f3b-b7f2-4d13-be76-4211b5350bd1">
+
+<img width="960" alt="Dapp 5" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/86dce336-be35-404e-8cbe-d31153ec33b9">
+
+<img width="960" alt="Dapp 6" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/a1a7b093-4f0a-46e3-8019-ecb65d2d1654">
+
+<img width="960" alt="Dapp 7" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/3e6fc08a-ef87-4b6b-8a54-4ec882a93073">
+
+<img width="960" alt="Dapp 8" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/0c73f207-ab92-4824-9d9b-88f850b2f7ee">
+
+<img width="960" alt="Dapp 9" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/e1825d6a-256a-4fc9-ac67-3a098e23bacc">
+
+<img width="960" alt="Dapp added products" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/f07ab4ca-be3e-4960-88e8-7f370bd9b540">
+
+<img width="960" alt="Dapp User acct they purchased 3 items" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/1cbeecf6-bc2e-4154-b7b5-171232f54e83">
+
+<img width="960" alt="Dapp Users Pending Transcations" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/8025cf10-a818-4bed-835e-9570fe2aea67">
+
+<img width="960" alt="Dapp Get Block" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/ed4a05be-684c-4ada-9cee-eef22b27b7cc">
+
+<img width="960" alt="Dapp Admin mined after User purchased items" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/d7d42595-8006-4c5e-904b-cb4458272f99">
+
+<img width="960" alt="Dapp BlockExplorer Block Proof 1" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/b917ccf7-6213-4d58-bc6e-d23bbee59b28">
+
+<img width="960" alt="Dapp BlockExplorer Proof 2 " src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/bc2eb680-ea53-4ccb-adc8-6d8b34242bc8">
+
+<img width="960" alt="Dapp confirmed Transactions" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/d708fe25-5981-48ad-a478-3df2c41a0b94">
+
+<img width="960" alt="Dapp Admin wallet it has gain 20 since the last two separate transactions " src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/585ed795-90c1-4fb3-a7e8-7ead42b10355">
+
+
+DEPLOYED on CLOUD with Automactic startup. No need to run in the Droplet console and start each componet Blockchain, Backend and frontend separately anymore.
+<img width="960" alt="Dapp Deployed on the CLOUD with Auto Startup im only using incognito due cache issues with my browser" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/a25bd888-5a33-4dd9-a118-8c569bd7b2fb">
