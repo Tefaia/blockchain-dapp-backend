@@ -177,6 +177,6 @@ Admin Wallet - Note since the User made two separate transcations the balance we
 <img width="960" alt="Dapp 17 Admin wallet it has gain 20 since the last two separate transactions " src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/585ed795-90c1-4fb3-a7e8-7ead42b10355">
 
 
-DEPLOYED on CLOUD with Automactic startup. No need to run in the Droplet console via digital Ocean Cloud and start each componet Blockchain, Backend and frontend separately anymore. I'm only using incognito due cache issues with my browser. http://209.38.153.171:3000
+DEPLOYED on CLOUD with Automactic startup. No need to run in the Droplet console via digital Ocean Cloud and start each componet Blockchain, Backend and frontend separately anymore. I'm only using incognito due to cache issues with my browser. http://209.38.153.171:3000
 
 <img width="960" alt="Dapp Deployed on the CLOUD with Auto Startup im only using incognito due cache issues with my browser" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/a25bd888-5a33-4dd9-a118-8c569bd7b2fb">
