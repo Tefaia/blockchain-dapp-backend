@@ -93,3 +93,6 @@ Use the integrated wallet to send, receive, and monitor your cryptocurrency fund
 Exploring the Blockchain
 
 Use the Block Explorer to search for and view details of transactions, blocks, and addresses.
+
+<img width="960" alt="Dapp 1" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/d79d7d78-6937-41ee-83ff-2b5bedb1e7fd">
+
