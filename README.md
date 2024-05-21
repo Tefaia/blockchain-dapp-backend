@@ -46,7 +46,8 @@ Block Explorer
 
 
 Peer
-• Purpose:A Web interface to connect blockchain via websockets.
+
+• Purpose: A Web interface to connect blockchain via websockets.
 
 • Use Case: Allows peers to connect to peer network and notify other peers whenever a new block is added to the blockchain.
 
