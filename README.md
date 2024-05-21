@@ -186,3 +186,39 @@ Admin Wallet - Note since the User made two separate transcations the balance we
 DEPLOYED on CLOUD with Automactic startup. No need to run in the Droplet console via digital Ocean Cloud and start each componet Blockchain, Backend and frontend separately anymore. I'm only using incognito due to cache issues with my browser. http://209.38.153.171:3000
 
 <img width="960" alt="Dapp Deployed on the CLOUD with Auto Startup im only using incognito due cache issues with my browser" src="https://github.com/Tefaia/blockchain-dapp-backend/assets/83253423/a25bd888-5a33-4dd9-a118-8c569bd7b2fb">
+
+
+Synchronization in this Blockchain Project
+
+1.Blockchain Node Synchronization
+
+Full Node: My back-end is running a full node of the blockchain, it should continuously sync with the blockchain network to ensure it has the latest data.
+
+
+Example Workflow
+
+1. User Interaction:
+
+- A user performs an action on the front-end (e.g., submitting a transaction).
+
+2. Front-end to Back-end Communication:
+
+- The front-end sends the transaction data to the back-end via an API call.
+
+3. Back-end Processing:
+
+- The back-end processes the transaction, submits it to the blockchain network, and updates its local state/database.
+
+4. Back-end to Blockchain Sync:
+
+- The back-end node syncs with the blockchain network, confirming the transaction is included in a new block.
+
+5. Back-end to Front-end Update:
+
+- Once confirmed, the back-end updates its state and pushes this update to the front-end.
+
+- The front-end receives the update and refreshes the UI to reflect the new state.
+
+
+
+
