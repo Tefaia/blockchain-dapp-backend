@@ -44,14 +44,15 @@ Block Explorer
 
 • Features: Provides information such as transaction histories, block confirmations, and network status.
 
-These components collectively enable a functioning blockchain-based marketplace by facilitating secure transactions, providing transparency, and ensuring the network's integrity and accessibility.
 
 Peer
 • Purpose:A Web interface to connect blockchain via websockets.
+
 • Use Case: Allows peers to connect to peer network and notify other peers whenever a new block is added to the blockchain.
 
 
 
+These components collectively enable a functioning blockchain-based marketplace by facilitating secure transactions, providing transparency, and ensuring the network's integrity and accessibility.
 
 
 Getting Started
